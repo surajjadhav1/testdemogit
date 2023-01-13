@@ -1,0 +1,4 @@
+mv /mnt/d/.bashrc ~/
+
+tar xvf /mnt/d/jdk-16.0.1.tar.gz
+
